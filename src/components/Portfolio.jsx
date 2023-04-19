@@ -27,8 +27,8 @@ const Portfolio = () => {
         {
             id: 3,
             src: navbar3,
-            link:"https://hungereats.netlify.app/",
-            demo:"https://github.com/Alfa-ZORO/Restaurant_Website",
+            link:"https://github.com/Alfa-ZORO/Restaurant_Website",
+            demo:"https://hungereats.netlify.app/",
             name:"Restaurant website"
             
         },
@@ -49,8 +49,8 @@ const Portfolio = () => {
         {
             id: 6,
             src: navbar6,
-            link:"https://github.com/anasparambadan/todo-list-react-2.git",
-            demo:"https://scheduletodo.netlify.app/",
+            link:"https://github.com/Alfa-ZORO/Todo-List",
+            demo:"https://nowtodolist.netlify.app/",
             name:"Todo-list"
         },
     ]
