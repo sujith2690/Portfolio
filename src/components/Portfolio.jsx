@@ -13,21 +13,21 @@ const Portfolio = () => {
         {
             id: 1,
             src: navbar,
-            link:"https://github.com/Alfa-ZORO/SocialMedia-SocialME",
+            link:"https://github.com/sujith2690/SocialMedia-SocialME",
             demo:"https://socialmeconnect.netlify.app/",
             name:"SocialME - Social media app"
         },
         {
             id: 2,
             src: navbar2,
-            link:"https://github.com/Alfa-ZORO/AMAZE",
-            demo:"https://www.amazemen.shop/",
+            link:"https://github.com/sujith2690/AMAZE",
+            demo:"https://adventurous-pink-pea-coat.cyclic.app/",
             name:"Amaze - Ecommerce website"
         },
         {
             id: 3,
             src: navbar3,
-            link:"https://github.com/Alfa-ZORO/Restaurant_Website",
+            link:"https://github.com/sujith2690/Restaurant_Website",
             demo:"https://hungereats.netlify.app/",
             name:"Restaurant website"
             
@@ -35,21 +35,21 @@ const Portfolio = () => {
         {
             id: 4,
             src: navbar4,
-            link:"https://github.com/Alfa-ZORO/Netflix-Clone",
+            link:"https://github.com/sujith2690/Netflix-Clone",
             demo:"https://netflixtmdb.netlify.app/",
             name:"Netflix-clone"
         },
         {
             id: 5,
             src: navbar5,
-            link:"https://github.com/Alfa-ZORO/Olx-Clone",
+            link:"https://github.com/sujith2690/Olx-Clone",
             demo:"https://olxclo.netlify.app/",
             name:"Olx-clone"
         },
         {
             id: 6,
             src: navbar6,
-            link:"https://github.com/Alfa-ZORO/Todo-List",
+            link:"https://github.com/sujith2690/Todo-List",
             demo:"https://nowtodolist.netlify.app/",
             name:"Todo-list"
         },
