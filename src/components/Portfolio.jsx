@@ -100,7 +100,7 @@ const Portfolio = () => {
             src: navbar11,
             link: "https://github.com/sujith2690/Accounts-Craxinno-Tech",
             demo: "https://cashpayment.netlify.app/",
-            name: "Cash Drawer"
+            name: "Cash-Drawer"
         },
     ]
 
