@@ -14,6 +14,9 @@ import javascript from '../assets/javascript.png'
 import tailwind from '../assets/tailwind.png'
 import mongodb from '../assets/mongodb.png'
 import bootstrap from '../assets/bootstrap.png'
+import angular from '../assets/angular.png'
+import typeScript from '../assets/typeScript.png'
+import nextJs from '../assets/nextJs.png'
 
 const Experience = () => {
     const experinces = [
@@ -46,13 +49,13 @@ const Experience = () => {
             src: redux,
             title: "Redux Toolkit",
             style: "shadow-purple-600",
-          },
-          {
+        },
+        {
             id: 6,
-            src:  express,
+            src: express,
             title: "Express.js",
             style: "shadow-gray-500",
-          },
+        },
         {
             id: 7,
             src: tailwind,
@@ -64,19 +67,19 @@ const Experience = () => {
             src: jwt,
             title: "JSON Web Token",
             style: "shadow-blue-400",
-          },
+        },
         {
             id: 9,
             src: mui,
             title: "Material UI",
             style: "shadow-blue-500",
-          },
-          {
+        },
+        {
             id: 10,
             src: npm,
             title: "NPM",
             style: "shadow-red-600",
-          },
+        },
         {
             id: 11,
             src: node,
@@ -93,7 +96,7 @@ const Experience = () => {
             id: 13,
             src: mongodb,
             title: 'MongoDB',
-            style: 'shadow-green-400'
+            style: 'shadow-green-600'
         },
         {
             id: 14,
@@ -106,7 +109,25 @@ const Experience = () => {
             src: postgresql,
             title: "PostgreSQL",
             style: "shadow-blue-400",
-          },
+        },
+        {
+            id: 16,
+            src: angular,
+            title: "Angular",
+            style: "shadow-red-600",
+        },
+        {
+            id: 16,
+            src: typeScript,
+            title: "TypeScript",
+            style: "shadow-blue-400",
+        },
+        {
+            id: 17,
+            src: nextJs,
+            title: "Next.JS",
+            style: "shadow-blue-200",
+        },
     ]
     return (
         <div name='Experience' className='bg-gradient-to-b from-gray-800 to-black w-full h-fit pt-20'>

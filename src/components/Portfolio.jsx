@@ -27,7 +27,7 @@ const Portfolio = () => {
             id: 2,
             src: navbar2,
             link: "https://github.com/sujith2690/AMAZE",
-            demo: "https://adventurous-pink-pea-coat.cyclic.app/",
+            demo: "https://amazemen.cyclic.app/",
             name: "Amaze - Ecommerce website"
         },
         {
@@ -100,7 +100,7 @@ const Portfolio = () => {
             src: navbar11,
             link: "https://github.com/sujith2690/Accounts-Craxinno-Tech",
             demo: "https://cashpayment.netlify.app/",
-            name: "Cash-Drawer"
+            name: "Account Settlement"
         },
     ]
 

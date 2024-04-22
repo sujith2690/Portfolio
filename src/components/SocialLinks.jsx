@@ -18,7 +18,7 @@ const SocialLinks = () => {
         {
             id: 2,
             child: (<>Github <FaGithub size={30} /></>),
-            href: 'https://github.com/Alfa-ZORO',
+            href: 'https://github.com/sujith2690/',
 
         },
         {
@@ -30,7 +30,7 @@ const SocialLinks = () => {
         {
             id: 4,
             child: (<>Resume <BsFillPersonLinesFill size={30} /></>),
-            href: '/Sujith Resume.pdf',
+            href: '/Sujith P_Resume.pdf',
             style: 'rounded-br-md',
             download: true,
         },
